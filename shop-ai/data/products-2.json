@@ -1,0 +1,515 @@
+{
+  "products": [
+    {
+      "id": 100,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 579,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/100/1.jpg",
+        "https://i.dummyjson.com/data/products/100/2.jpg",
+        "https://i.dummyjson.com/data/products/100/3.jpg",
+        "https://i.dummyjson.com/data/products/100/4.jpg",
+        "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 929,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/101/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/101/1.jpg",
+        "https://i.dummyjson.com/data/products/101/2.jpg",
+        "https://i.dummyjson.com/data/products/101/3.jpg",
+        "https://i.dummyjson.com/data/products/101/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1299,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/102/thumbnail.jpg",
+      "images": ["https://i.dummyjson.com/data/products/102/1.jpg"]
+    },
+    {
+      "id": 103,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 310,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/103/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/103/1.jpg",
+        "https://i.dummyjson.com/data/products/103/2.jpg",
+        "https://i.dummyjson.com/data/products/103/3.jpg",
+        "https://i.dummyjson.com/data/products/103/4.jpg",
+        "https://i.dummyjson.com/data/products/103/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 549,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/104/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/104/1.jpg",
+        "https://i.dummyjson.com/data/products/104/2.jpg",
+        "https://i.dummyjson.com/data/products/104/3.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Women's Floral Dress",
+      "description": "Elegant and comfortable floral dress for women.",
+      "price": 59.99,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 50,
+      "brand": "FashionStyle",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/105/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/105/1.jpg",
+        "https://i.dummyjson.com/data/products/105/2.jpg",
+        "https://i.dummyjson.com/data/products/105/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Men's Plaid Shirt",
+      "description": "Stylish plaid shirt for men's casual wear.",
+      "price": 39.99,
+      "discountPercentage": 0.0,
+      "rating": 4.5,
+      "stock": 40,
+      "brand": "TrendyMan",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/106/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/106/1.jpg",
+        "https://i.dummyjson.com/data/products/106/2.jpg",
+        "https://i.dummyjson.com/data/products/106/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Women's High Heels",
+      "description": "Classic high heels for women.",
+      "price": 69.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 30,
+      "brand": "FashionHeels",
+      "category": "shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/107/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/107/1.jpg",
+        "https://i.dummyjson.com/data/products/107/2.jpg",
+        "https://i.dummyjson.com/data/products/107/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Men's Casual Jeans",
+      "description": "Comfortable and durable jeans for a casual look.",
+      "price": 49.99,
+      "discountPercentage": 0.0,
+      "rating": 4.4,
+      "stock": 60,
+      "brand": "DenimCo",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/108/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/108/1.jpg",
+        "https://i.dummyjson.com/data/products/108/2.jpg",
+        "https://i.dummyjson.com/data/products/108/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Women's Handbag",
+      "description": "Stylish and spacious handbag for women.",
+      "price": 79.99,
+      "discountPercentage": 15.0,
+      "rating": 4.7,
+      "stock": 25,
+      "brand": "TrendyBags",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/109/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/109/1.jpg",
+        "https://i.dummyjson.com/data/products/109/2.jpg",
+        "https://i.dummyjson.com/data/products/109/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Men's Leather Shoes",
+      "description": "Classic leather shoes for men.",
+      "price": 89.99,
+      "discountPercentage": 8.0,
+      "rating": 4.9,
+      "stock": 20,
+      "brand": "LeatherStyle",
+      "category": "shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/110/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/110/1.jpg",
+        "https://i.dummyjson.com/data/products/110/2.jpg",
+        "https://i.dummyjson.com/data/products/110/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "iPhone 11",
+      "description": "Apple's latest mobile device with remarkable features.",
+      "price": 879,
+      "discountPercentage": 12.0,
+      "rating": 4.8,
+      "stock": 48,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/111/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/111/1.jpg",
+        "https://i.dummyjson.com/data/products/111/2.jpg",
+        "https://i.dummyjson.com/data/products/111/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Samsung Galaxy S21",
+      "description": "Samsung's flagship smartphone with incredible performance.",
+      "price": 999,
+      "discountPercentage": 14.5,
+      "rating": 4.9,
+      "stock": 26,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/112/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/112/1.jpg",
+        "https://i.dummyjson.com/data/products/112/2.jpg",
+        "https://i.dummyjson.com/data/products/112/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Men's Formal Suit",
+      "description": "Elegant and comfortable formal suit for men.",
+      "price": 199.99,
+      "discountPercentage": 20.0,
+      "rating": 4.7,
+      "stock": 18,
+      "brand": "FormalStyle",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/113/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/113/1.jpg",
+        "https://i.dummyjson.com/data/products/113/2.jpg",
+        "https://i.dummyjson.com/data/products/113/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Women's Winter Coat",
+      "description": "Stylish and warm winter coat for women.",
+      "price": 149.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 15,
+      "brand": "WinterWear",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/114/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/114/1.jpg",
+        "https://i.dummyjson.com/data/products/114/2.jpg",
+        "https://i.dummyjson.com/data/products/114/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Nike Men's Running Shoes",
+      "description": "Comfortable running shoes for men.",
+      "price": 119.99,
+      "discountPercentage": 8.0,
+      "rating": 4.9,
+      "stock": 32,
+      "brand": "Nike",
+      "category": "shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/115/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/115/1.jpg",
+        "https://i.dummyjson.com/data/products/115/2.jpg",
+        "https://i.dummyjson.com/data/products/115/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Women's Summer Dress",
+      "description": "Stylish and comfortable dress for summer.",
+      "price": 69.99,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 28,
+      "brand": "SummerStyle",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/116/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/116/1.jpg",
+        "https://i.dummyjson.com/data/products/116/2.jpg",
+        "https://i.dummyjson.com/data/products/116/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Adidas Men's Sneakers",
+      "description": "Stylish sneakers for men's casual wear.",
+      "price": 89.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 20,
+      "brand": "Adidas",
+      "category": "shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/117/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/117/1.jpg",
+        "https://i.dummyjson.com/data/products/117/2.jpg",
+        "https://i.dummyjson.com/data/products/117/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Men's Casual Backpack",
+      "description": "Spacious and durable backpack for everyday use.",
+      "price": 59.99,
+      "discountPercentage": 0.0,
+      "rating": 4.5,
+      "stock": 35,
+      "brand": "CasualTrek",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/116/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/116/1.jpg",
+        "https://i.dummyjson.com/data/products/116/2.jpg",
+        "https://i.dummyjson.com/data/products/116/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Men's Casual Sneakers",
+      "description": "Stylish sneakers suitable for casual wear.",
+      "price": 79.99,
+      "discountPercentage": 8.0,
+      "rating": 4.6,
+      "stock": 40,
+      "brand": "CasualTrend",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/109/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/109/1.jpg",
+        "https://i.dummyjson.com/data/products/109/2.jpg",
+        "https://i.dummyjson.com/data/products/109/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Adidas Ultra Boost Running Shoes",
+      "description": "Premium running shoes designed for maximum performance.",
+      "price": 179.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 30,
+      "brand": "Adidas",
+      "category": "shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/110/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/110/1.jpg",
+        "https://i.dummyjson.com/data/products/110/2.jpg",
+        "https://i.dummyjson.com/data/products/110/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Elegant Women's Handbag",
+      "description": "Stylish and spacious handbag for everyday use.",
+      "price": 99.99,
+      "discountPercentage": 7.5,
+      "rating": 4.9,
+      "stock": 20,
+      "brand": "ChicStyle",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/111/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/111/1.jpg",
+        "https://i.dummyjson.com/data/products/111/2.jpg",
+        "https://i.dummyjson.com/data/products/111/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Men's Classic Leather Belt",
+      "description": "Premium quality leather belt for formal and casual wear.",
+      "price": 39.99,
+      "discountPercentage": 0.0,
+      "rating": 4.5,
+      "stock": 55,
+      "brand": "ClassicLeather",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/112/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/112/1.jpg",
+        "https://i.dummyjson.com/data/products/112/2.jpg",
+        "https://i.dummyjson.com/data/products/112/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Casual Women's Sandals",
+      "description": "Comfortable and trendy sandals for casual outings.",
+      "price": 49.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 45,
+      "brand": "CasualChic",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/113/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/113/1.jpg",
+        "https://i.dummyjson.com/data/products/113/2.jpg",
+        "https://i.dummyjson.com/data/products/113/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Men's Formal Dress Shoes",
+      "description": "Classic formal shoes for a sophisticated look.",
+      "price": 89.99,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 30,
+      "brand": "FormalStyle",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/114/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/114/1.jpg",
+        "https://i.dummyjson.com/data/products/114/2.jpg",
+        "https://i.dummyjson.com/data/products/114/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Stylish Women's Sunglasses",
+      "description": "Trendy sunglasses for a fashionable look.",
+      "price": 29.99,
+      "discountPercentage": 15.0,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "FashionShades",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/115/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/115/1.jpg",
+        "https://i.dummyjson.com/data/products/115/2.jpg",
+        "https://i.dummyjson.com/data/products/115/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "Men's Stylish Shirt",
+      "description": "Trendy and comfortable shirt for a modern look.",
+      "price": 49.99,
+      "discountPercentage": 0.0,
+      "rating": 4.4,
+      "stock": 60,
+      "brand": "ModernMan",
+      "category": "men_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/106/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/106/1.jpg",
+        "https://i.dummyjson.com/data/products/106/2.jpg",
+        "https://i.dummyjson.com/data/products/106/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Nike Air Max Running Shoes",
+      "description": "High-performance running shoes with excellent cushioning.",
+      "price": 159.99,
+      "discountPercentage": 12.5,
+      "rating": 4.9,
+      "stock": 35,
+      "brand": "Nike",
+      "category": "shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/107/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/107/1.jpg",
+        "https://i.dummyjson.com/data/products/107/2.jpg",
+        "https://i.dummyjson.com/data/products/107/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 128,
+      "title": "Women's Workout Leggings",
+      "description": "Stretchable and comfortable leggings for workout sessions.",
+      "price": 29.99,
+      "discountPercentage": 15.0,
+      "rating": 4.7,
+      "stock": 50,
+      "brand": "FitGear",
+      "category": "women_fashion",
+      "thumbnail": "https://i.dummyjson.com/data/products/108/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/108/1.jpg",
+        "https://i.dummyjson.com/data/products/108/2.jpg",
+        "https://i.dummyjson.com/data/products/108/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 549,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/104/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/104/1.jpg",
+        "https://i.dummyjson.com/data/products/104/2.jpg",
+        "https://i.dummyjson.com/data/products/104/3.jpg"
+      ]
+    }
+  ]
+}
