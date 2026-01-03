@@ -45,18 +45,13 @@ Copy code
 
 ✨ Features
 AI-based shopping assistance logic
-
 Modular and scalable backend structure
-
 Separate processing and payment modules
-
 Clean and readable codebase
 
 🎯 Learning Outcomes
+
 Backend application flow using Node.js
-
 Modular code organization
-
 Simulated AI-assisted shopping logic
-
 Practical understanding of e-commerce backend systems
